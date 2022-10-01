@@ -1,0 +1,15 @@
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\bin\Debug\net7.0\Example007_Mag.exe
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\bin\Debug\net7.0\Example007_Mag.deps.json
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\bin\Debug\net7.0\Example007_Mag.runtimeconfig.json
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\bin\Debug\net7.0\Example007_Mag.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\bin\Debug\net7.0\Example007_Mag.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\obj\Debug\net7.0\Example007_Mag.csproj.AssemblyReference.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\obj\Debug\net7.0\Example007_Mag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\obj\Debug\net7.0\Example007_Mag.AssemblyInfoInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\obj\Debug\net7.0\Example007_Mag.AssemblyInfo.cs
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\obj\Debug\net7.0\Example007_Mag.csproj.CoreCompileInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\obj\Debug\net7.0\Example007_Mag.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\obj\Debug\net7.0\refint\Example007_Mag.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\obj\Debug\net7.0\Example007_Mag.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\obj\Debug\net7.0\Example007_Mag.genruntimeconfig.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Example007_Mag\obj\Debug\net7.0\ref\Example007_Mag.dll

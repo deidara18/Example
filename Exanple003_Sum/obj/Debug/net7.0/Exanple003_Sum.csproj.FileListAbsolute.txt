@@ -1,0 +1,15 @@
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\bin\Debug\net7.0\Exanple003_Sum.exe
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\bin\Debug\net7.0\Exanple003_Sum.deps.json
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\bin\Debug\net7.0\Exanple003_Sum.runtimeconfig.json
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\bin\Debug\net7.0\Exanple003_Sum.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\bin\Debug\net7.0\Exanple003_Sum.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\obj\Debug\net7.0\Exanple003_Sum.csproj.AssemblyReference.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\obj\Debug\net7.0\Exanple003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\obj\Debug\net7.0\Exanple003_Sum.AssemblyInfoInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\obj\Debug\net7.0\Exanple003_Sum.AssemblyInfo.cs
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\obj\Debug\net7.0\Exanple003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\obj\Debug\net7.0\Exanple003_Sum.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\obj\Debug\net7.0\refint\Exanple003_Sum.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\obj\Debug\net7.0\Exanple003_Sum.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\obj\Debug\net7.0\Exanple003_Sum.genruntimeconfig.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Examples\Exanple003_Sum\obj\Debug\net7.0\ref\Exanple003_Sum.dll
